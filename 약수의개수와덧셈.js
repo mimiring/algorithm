@@ -1,6 +1,5 @@
 function solution(left, right) {
   let answer = 0;
-  let calcul = [];
 
   for (let i = left; i <= right; i++) {
     let count = 0;
